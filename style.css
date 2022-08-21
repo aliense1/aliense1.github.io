@@ -5,3 +5,9 @@ body {
 h1{
     color: aliceblue;
 }
+
+a {
+    border: 1px;
+    border-style: none;
+    border-color: black;
+}    
