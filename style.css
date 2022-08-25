@@ -1,8 +1,15 @@
 body {
-    background-color: green;
+    background-color: rgb(13, 221, 13);
 }
 
 h1{
-    color: aliceblue;
+    color: rgb(0, 0, 0);
+    width: 200;
+    height: 200;
+    background-color: greenyellow;
+    display: inline;
+    border-radius: 20%;
+    font-size: 30px;
+    font-weight: bolder;
 }
 
